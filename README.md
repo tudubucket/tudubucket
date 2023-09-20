@@ -17,14 +17,17 @@
 - 🔒 Mainly working on private work/repository
 - 🥥 [Organization working website](https://langdua.net)
 - <sub><img src="https://cdn.discordapp.com/attachments/967645916658036746/1071662340505882634/minecraft.png" alt="discordpy icon" width="19"/></sub> Minecraft server engnieer, currently holding [LangDuaMC](https://langdua.net) and working for some others organizations
-- [My Discord Server](https://langdua.net/discord)!
+- <img style="width:17px; height:auto;" src="https://cdn.discordapp.com/attachments/967645916658036746/1071615538339516478/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> [My Discord Server](https://langdua.net/discord)!
 
 <br>
 
 </div>
 
 ## 🛌 **Wakatime**
+<div align="center">
 <img src="https://wakatime.com/share/@tudubucket/21e51a7a-7378-4915-898a-eaa08e98be67.png" />
+	
+</div>
 
 ## 📑 **Languages**
 
@@ -56,4 +59,4 @@ A plugin to protect Minecraft Server Administrator from:
 - Unauthorized login, even the attacker have your account password.
 </div><br><br>
 
-There are more **2** private repositories/projects that's im working in...
+There are more private repositories/projects that's im working in...
