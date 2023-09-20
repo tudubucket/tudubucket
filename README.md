@@ -23,6 +23,9 @@
 
 </div>
 
+## 🛌 **Wakatime**
+<img src="https://wakatime.com/share/@tudubucket/21e51a7a-7378-4915-898a-eaa08e98be67.png" />
+
 ## 📑 **Languages**
 
 | Highly Experienced | Working with but quite confused... |
