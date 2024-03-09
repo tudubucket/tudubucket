@@ -12,12 +12,12 @@
 
 <br>
 
-- <sub><img src="https://cdn.discordapp.com/attachments/1146791086682030159/1153953344403025980/vn.png" alt="Vietnamese Flag" width="23" height="17"/></sub> Vietnamese Student
-- <sub><img src="https://cdn.discordapp.com/attachments/1146791086682030159/1153958933564755998/discordpy.png" alt="discordpy icon" width="17"/></sub> Discord.py lover with daily 69 hours of coding with Discord Bot
+- <sub><img src="https://cdn.langdua.net/youtube.png" alt="Vietnamese Flag" width="23" height="17"/></sub> Vietnamese Student
+- <sub><img src="https://cdn.langdua.net/discordpy.png" alt="discordpy icon" width="17"/></sub> Discord.py lover with daily 69 hours of coding with Discord Bot
 - 🔒 Mainly working on private work/repository
 - 🥥 [Organization working website](https://langdua.net)
-- <sub><img src="https://cdn.discordapp.com/attachments/967645916658036746/1071662340505882634/minecraft.png" alt="discordpy icon" width="19"/></sub> Minecraft server engnieer, currently holding [LangDuaMC](https://langdua.net) and working for some others organizations
-- <img style="width:17px; height:auto;" src="https://cdn.discordapp.com/attachments/967645916658036746/1071615538339516478/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> [My Discord Server](https://langdua.net/discord)!
+- <sub><img src="https://cdn.langdua.net/minecraft.png" alt="discordpy icon" width="19"/></sub> Minecraft server engnieer, currently holding [LangDuaMC](https://langdua.net) and working for some others organizations
+- <img style="width:17px; height:auto;" src="https://cdn.langdua.net/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> [My Discord Server](https://langdua.net/discord)!
 
 <br>
 
@@ -38,7 +38,7 @@
 
 ## 🏗️ **Working projects/repositories**
 <div>
-  <img src="https://cdn.discordapp.com/attachments/1096028188976619523/1120017495517036654/104169263_p1.png" height="auto" width="230" align="right" style="border-radius:50%"/>
+  <img src="https://cdn.langdua.net/104169263_p1.png" height="auto" width="230" align="right" style="border-radius:50%"/>
 
 ### 🤖 GlitchBucket
 **GlitchBucket** is a Discord Bot mainly focus on automated & unique features, such as: 
@@ -50,7 +50,7 @@
 You can help me continuing bot development by [invite here](https://discord.com/api/oauth2/authorize?client_id=1103932552701550622&permissions=52664888455159&scope=bot%20applications.commands) ❤
 </div><br><br>
 <div>
-  <img src="https://cdn.discordapp.com/attachments/1146791086682030159/1154003612511502336/image.png" height="auto" width="470" align="right" style="border-radius:50%"/>
+  <img src="https://cdn.langdua.net/whitelistedadmin.png" height="auto" width="470" align="right" style="border-radius:50%"/>
 
 ### 🛑 WhitelistedAdmin
 A plugin to protect Minecraft Server Administrator from:
