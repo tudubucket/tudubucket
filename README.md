@@ -8,11 +8,11 @@
 <div>
 <br>
   
-<img src="https://cdn.discordapp.com/attachments/982903208622034995/1071332066131722262/do-vu-mah-tu.png" width="190" align="right"/>
+<img src="https://cdn.langdua.net/do-vu-mah-tu.png" width="190" align="right"/>
 
 <br>
 
-- <sub><img src="https://cdn.langdua.net/youtube.png" alt="Vietnamese Flag" width="23" height="17"/></sub> Vietnamese Student
+- 😋 Vietnamese Student
 - <sub><img src="https://cdn.langdua.net/discordpy.png" alt="discordpy icon" width="17"/></sub> Discord.py lover with daily 69 hours of coding with Discord Bot
 - 🔒 Mainly working on private work/repository
 - 🥥 [Organization working website](https://langdua.net)
