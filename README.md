@@ -1,6 +1,6 @@
 <h1 align="center"><b>Ankita Tudubucket </b><img src="https://emoji.discadia.com/emojis/1db05588-c291-4e75-9248-9f87cadabd72.PNG" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Minecraft+PvP+Enjoyer;Minecraft+Server+Engnieer;Discord+Bot+Developer;Providing+Automatic+Solution;Trying+to+learn+new+stuff"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Minecraft+Server+Engnieer;Discord+Bot+Developer;Providing+Automatic+Solution;Trying+to+learn+new+stuff"></a>
 </p>
 	
 ## 😎 **About me**
@@ -45,7 +45,7 @@
 - Outage notification,
 - [BlocksMC](https://blocksmc.com) Statistic Tracker,
 - High-quality Anime Illustration,
-- and much more!
+- [and much more!](https://bot.tudubucket.dev/)
 
 You can help me continuing bot development by [invite here](https://discord.com/api/oauth2/authorize?client_id=1103932552701550622&permissions=52664888455159&scope=bot%20applications.commands) ❤
 </div><br><br>
