@@ -31,9 +31,9 @@
 
 ## 📑 **Languages**
 
-| Highly Experienced | Working with but quite confused... |
+| It's okay | Working with but quite confused... |
 | :---: | :---: |
-| ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Pascal](https://img.shields.io/badge/Pascal-FE7A16?style=for-the-badge&logo=polars&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java%20-red.svg?style=for-the-badge&logo=openjdk&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin%20-purple.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java%20-red.svg?style=for-the-badge&logo=openjdk&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin%20-purple.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=gray)|
 <br>
 
 ## 🏗️ **Working projects/repositories**
@@ -42,12 +42,12 @@
 
 ### 🤖 GlitchBucket
 **GlitchBucket** is a Discord Bot mainly focus on automated & unique features, such as: 
-- Outage notification,
+- Fully-customizable Giveaways, Voting & Donation system,
 - [BlocksMC](https://blocksmc.com) Statistic Tracker,
 - High-quality Anime Illustration,
 - [and much more!](https://bot.tudubucket.dev/)
 
-You can help me continuing bot development by [invite here](https://discord.com/api/oauth2/authorize?client_id=1103932552701550622&permissions=52664888455159&scope=bot%20applications.commands) ❤
+You can help me continuing bot development by [invite here](https://tudubucket.dev/application) ❤
 </div><br><br>
 <div>
   <img src="https://cdn.langdua.net/whitelistedadmin.png" height="auto" width="470" align="right" style="border-radius:50%"/>
