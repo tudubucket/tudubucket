@@ -41,9 +41,13 @@
   <img src="https://cdn.langdua.net/104169263_p1.png" height="auto" width="230" align="right" style="border-radius:50%"/>
 
 ### 🤖 [GlitchBucket](https://bot.tudubucket.dev/)
-**GlitchBucket** is a Discord Bot mainly focus on automated & unique features, visit my bot at [Documentation Site](https://bot.tudubucket.dev/)
+**GlitchBucket** is a Discord Bot that provides automated & unique features, for better community managing performance
 
 You can help me continuing bot development by [invite here](https://tudubucket.dev/application) ❤
+
+Visit bot's [Documentation Site](https://bot.tudubucket.dev/) 📚
+
+
 </div><br><br>
 <div>
   <img src="https://cdn.langdua.net/whitelistedadmin.png" height="auto" width="470" align="right" style="border-radius:50%"/>
