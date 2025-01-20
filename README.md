@@ -13,10 +13,10 @@
 <br>
 
 - 😋 Vietnamese Student
-- <sub><img src="https://cdn.langdua.net/discordpy.png" alt="discordpy icon" width="17"/></sub> Discord.py lover with daily 69 hours of coding with Discord Bot
+- <sub><img src="https://cdn.langdua.net/discordpy.png" alt="discordpy icon" width="17"/></sub> Discord bot lover with daily 69 hours of coding
 - 🔒 Mainly working on private work/repository
 - 🥥 [Organization working website](https://langdua.net)
-- <sub><img src="https://cdn.langdua.net/minecraft.png" alt="discordpy icon" width="19"/></sub> Minecraft server engnieer, currently holding [LangDuaMC](https://langdua.net) and working for some others organizations
+- <sub><img src="https://cdn.langdua.net/minecraft.png" alt="minecraft icon" width="19"/></sub> Minecraft server engnieer, currently holding [LangDuaMC](https://langdua.net) and working for some others organizations
 - <img style="width:17px; height:auto;" src="https://cdn.langdua.net/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> [My Discord Server](https://langdua.net/discord)!
 
 <br>
@@ -40,12 +40,8 @@
 <div>
   <img src="https://cdn.langdua.net/104169263_p1.png" height="auto" width="230" align="right" style="border-radius:50%"/>
 
-### 🤖 GlitchBucket
-**GlitchBucket** is a Discord Bot mainly focus on automated & unique features, such as: 
-- Fully-customizable Giveaways, Voting & Donation system,
-- [BlocksMC](https://blocksmc.com) Statistic Tracker,
-- High-quality Anime Illustration,
-- [and much more!](https://bot.tudubucket.dev/)
+### 🤖 [GlitchBucket](https://bot.tudubucket.dev/)
+**GlitchBucket** is a Discord Bot mainly focus on automated & unique features, visit my bot at [Documentation Site](https://bot.tudubucket.dev/)
 
 You can help me continuing bot development by [invite here](https://tudubucket.dev/application) ❤
 </div><br><br>
@@ -59,4 +55,3 @@ A plugin to protect Minecraft Server Administrator from:
 - Unauthorized login, even the attacker have your account password.
 </div><br><br>
 
-There are more private repositories/projects that's im working in...
