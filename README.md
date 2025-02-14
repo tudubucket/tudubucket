@@ -16,8 +16,8 @@
 - <sub><img src="https://cdn.langdua.net/discordpy.png" alt="discordpy icon" width="17"/></sub> Discord bot lover with daily 69 hours of coding
 - 🔒 Mainly working on private work/repository
 - 🥥 [Organization working website](https://langdua.net)
-- <sub><img src="https://cdn.langdua.net/minecraft.png" alt="minecraft icon" width="19"/></sub> Minecraft server engnieer, currently holding [LangDuaMC](https://langdua.net) and working for some others organizations
-- <img style="width:17px; height:auto;" src="https://cdn.langdua.net/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> [My Discord Server](https://langdua.net/discord)!
+- <sub><img src="https://cdn.langdua.net/minecraft.png" alt="minecraft icon" width="19"/></sub> Minecraft server engnieer, currently holding [LangDuaMC](https://langdua.net)
+- <img style="width:17px; height:auto;" src="https://cdn.langdua.net/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> [My Discord Server](https://bot.tudubucket.dev/support)!
 
 <br>
 
@@ -45,7 +45,7 @@
 
 You can help me continuing bot development by [invite here](https://tudubucket.dev/application) ❤
 
-Visit bot's [Documentation Site](https://bot.tudubucket.dev/) 📚
+Visit bot's [Documentation Site](https://bot.tudubucket.dev/) 📚 & [Public Status](https://bot.tudubucket.dev/stats)
 
 
 </div><br><br>
