@@ -78,8 +78,4 @@
 - 🎁 **Advanced Giveaway** - Highly customizable requirements, live editing, and reusable templates
 - 📌 **Sticky Messages** - Pin messages with webhook support and embed customization
 
-#### 🚀 Get Started
-
-
-
 ---
