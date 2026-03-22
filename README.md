@@ -2,14 +2,8 @@
 
 ## 😎 About Me
 
-<img src="https://cdn.langdua.net/do-vu-mah-tu.png" width="200" align="right" style="margin-left: 20px;"/>
-
 - Vietnamese student & developer
 - 💤 sleep
-
-<br clear="right"/>
-
----
 
 ### 💻 Tech Stack
 
